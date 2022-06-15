@@ -1,0 +1,123 @@
+{
+  "frames": {
+    "blueTrain.png": {
+      "frame": { "x": 7, "y": 1, "w": 111, "h": 33 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 111, "h": 33 },
+      "sourceSize": { "w": 111, "h": 33 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "redTrain.png": {
+      "frame": { "x": 118, "y": 34, "w": 111, "h": 33 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 111, "h": 33 },
+      "sourceSize": { "w": 111, "h": 33 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "blueVan.png": {
+      "frame": { "x": 235, "y": 1, "w": 98, "h": 33 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 98, "h": 33 },
+      "sourceSize": { "w": 98, "h": 33 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "redVan.png": {
+      "frame": { "x": 345, "y": 35, "w": 98, "h": 33 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 98, "h": 33 },
+      "sourceSize": { "w": 98, "h": 33 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "1.png": {
+      "frame": { "x": 519, "y": 26, "w": 36, "h": 41 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 41 },
+      "sourceSize": { "w": 36, "h": 41 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "2.png": {
+      "frame": { "x": 560, "y": 26, "w": 36, "h": 41 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 41 },
+      "sourceSize": { "w": 36, "h": 41 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "F.png": {
+      "frame": { "x": 674, "y": 26, "w": 36, "h": 41 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 41 },
+      "sourceSize": { "w": 36, "h": 41 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "Enter.png": {
+      "frame": { "x": 599, "y": 26, "w": 72, "h": 41 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 72, "h": 41 },
+      "sourceSize": { "w": 72, "h": 41 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "hedgehogL.png": {
+      "frame": { "x": 455, "y": 4, "w": 26, "h": 21 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 26, "h": 21 },
+      "sourceSize": { "w": 26, "h": 21 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "hedgehogR.png": {
+      "frame": { "x": 455, "y": 34, "w": 26, "h": 21 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 26, "h": 21 },
+      "sourceSize": { "w": 26, "h": 21 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "area.png": {
+      "frame": { "x": 2, "y": 69, "w": 1233, "h": 583 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1233, "h": 583 },
+      "sourceSize": { "w": 1233, "h": 583 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "smoke1.png": {
+      "frame": { "x": 727, "y": 20, "w": 22, "h": 45 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 45 },
+      "sourceSize": { "w": 22, "h": 45 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "smoke2.png": {
+      "frame": { "x": 758, "y": 17, "w": 22, "h": 41 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 22, "h": 41 },
+      "sourceSize": { "w": 22, "h": 41 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "gameOver.png": {
+      "frame": { "x": 783, "y": 0, "w": 590, "h": 68 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 590, "h": 68 },
+      "sourceSize": { "w": 590, "h": 68 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "version": "1.0",
+    "image": "trainProblem.png",
+    "format": "RGBA8888",
+    "size": { "w": 937, "h": 652 },
+    "scale": "1"
+  }
+}

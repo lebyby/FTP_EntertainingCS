@@ -1,0 +1,35 @@
+{
+  "frames": {
+    "match.png": {
+      "frame": { "x": 2, "y": 14, "w": 14, "h": 108 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 14, "h": 108 },
+      "sourceSize": { "w": 14, "h": 108 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "reload.png": {
+      "frame": { "x": 23, "y": 92, "w": 24, "h": 30 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 30 },
+      "sourceSize": { "w": 24, "h": 30 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "area.png": {
+      "frame": { "x": 2, "y": 126, "w": 719, "h": 512 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 719, "h": 512 },
+      "sourceSize": { "w": 719, "h": 512 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "version": "1.0",
+    "image": "matchProblem.png",
+    "format": "RGBA8888",
+    "size": { "w": 516, "h": 640 },
+    "scale": "1"
+  }
+}
