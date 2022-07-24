@@ -19,4 +19,9 @@ Full-stack веб-приложение основанное на MERN stack
 
 ![image](https://user-images.githubusercontent.com/51093582/180651754-04ac7189-15c3-4d8a-8c35-2b5c0042c5b1.png)
 
+***Просмотр результатов***
+
+![image](https://user-images.githubusercontent.com/51093582/180652250-dec33f8e-c12e-43bb-a13a-f81d9ccb2321.png)
+
+
 
